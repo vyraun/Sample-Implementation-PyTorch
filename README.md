@@ -1,4 +1,4 @@
-# Sample-Implementation-PyTorch
+# Sample-Implementation-PyTorch (https://arxiv.org/abs/1607.03474)
 
 Tested on non-cuda device: python main.py 
 
